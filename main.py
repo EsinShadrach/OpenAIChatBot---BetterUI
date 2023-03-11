@@ -2,6 +2,7 @@ import customtkinter
 import openai as oa
 from datetime import datetime as dt
 import json
+oa.api_key = ''
 
 # TODO: CREATE A SESSION CACHE DICTIONARY LIKE
 """
